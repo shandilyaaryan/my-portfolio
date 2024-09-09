@@ -52,7 +52,7 @@ const Backend = () => {
                         </div>
                     </div>
 
-                    <div className="skills__data">
+                    <div className="skills__data post">
                         <i className="bx bx-badge-check"></i>
 
                         <div>

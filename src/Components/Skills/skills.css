@@ -62,11 +62,26 @@
         grid-template-columns: max-content;
         row-gap: 2rem;
     }
+    .kafka {
+        padding-bottom: 1rem;
+    }
+    .type {
+        padding-bottom: 1rem;
+    }
+    .post {
+        padding-bottom: 1rem;
+    }
   }
   
   @media screen and (max-width: 576px) {
     .skills__content {
         padding: 1.5rem;
+    }
+    .kafka {
+        padding-bottom: 1rem;
+    }
+    .type {
+        padding-bottom: 1rem;
     }
   }
   
@@ -77,5 +92,11 @@
     }
     .skills__name {
         font-size: var(--small-font-size);
+    }
+    .kafka {
+        padding-bottom: 1rem;
+    }
+    .type {
+        padding-bottom: 1rem;
     }
   }
