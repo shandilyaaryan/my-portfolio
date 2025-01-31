@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (Outdated)
 
 
 This is my portfolio made with the help of React. 
